@@ -8,8 +8,9 @@
  ▒█▒█░   ░█░
  ░▀▄▀░   ▄█▄
  
- 𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙈𝘿 𝘽𝙮 𝘿𝙖𝙧𝙠 𝙈𝙖𝙠𝙚𝙧 
- 𝙋𝙪𝙗𝙡𝙞𝙘 𝘿𝙖𝙩𝙚 - 2022 / 07 / 03 
+ WHOAMI 𝙈𝘿 𝘽𝙮 𝘿𝙖𝙧k wonder23 
+ 
+ 𝙋𝙪𝙗𝙡𝙞𝙘 𝘿𝙖𝙩𝙚 - 2024 / 02 / 07 
  𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 𝙎𝙘𝙧𝙞𝙥𝙩 𝙁𝙧𝙤 𝙂𝙤𝙟𝙤 𝙎𝙖𝙩𝙤𝙧𝙪
  
  𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤
@@ -32,14 +33,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['27782186505'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['27782186505'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['27782186505'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Dark WONDER23' // Your name ඔබේ නම 
+global.botnma = '💃 MR ROBOT 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝓓𝓪𝓻𝓴 wonder23𝓻' //ownernama,ownername
+global.packname = 'DARK_WONDER23' // Sticker package name 
+global.author = 'DARK_WONDER23' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -60,7 +61,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 DARK_WONDER23 𝐌𝐃`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
